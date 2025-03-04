@@ -1,5 +1,5 @@
 body {
-background-image: url("../images/hearts.jpg"; /* Replace with your image URL */
+    background: silver url("../images/poeraven.jpg")
     background-size: cover; /* Stretches the image to cover the entire screen */
     background-attachment: fixed; /* Keeps the image fixed while scrolling */
     background-position: center; /* Centers the image */
