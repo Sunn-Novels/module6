@@ -8,6 +8,17 @@ max-width: 60em;
 margin: 0 auto 0 auto;
 }
 
+img {
+    float: right; /* Align the image to the right */
+    margin-left: 20px; /* Add some space between the image and the text */
+    display: block; /* Ensure it doesn't get wrapped by text */
+    max-width: 100%; /* Keep it responsive */
+}
+
+.text-container {
+    overflow: hidden; /* Prevents text from wrapping around the image */
+}
+
 table, th, td {
 border-collapse: collapse;
 border: 1px solid #000;
