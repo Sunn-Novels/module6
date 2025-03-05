@@ -21,6 +21,7 @@ img {
 
 table, th, td {
     background-color: pink;
+    font-family: comic sans ms;
 border-collapse: collapse;
 border: 1px solid #000;
 padding: 1em;
